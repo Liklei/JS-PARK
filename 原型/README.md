@@ -3,7 +3,7 @@
 
 > 在es6之前并没有类（[class](https://es6.ruanyifeng.com/#docs/class)）的概念，而es6的类也是es5原型及原型链的语法糖。值得理解的几个概念：
 
-1. 万物皆对象，所有内置对象的原型属性都会指向Obejct的原型，例如：Math.__proto__ === Object.prototype
+1. 万物皆对象，所有对象（如：内置对象）的原型属性最终都会指向Obejct的原型，例如：Math.__proto__ === Object.prototype
 2. Function.prototype.__proto__ === Object.prototype，所有的内置对象都是Function的实例，Function原型的原型属性指向Object的原型，因此应证了第1点
 3. 所有的原型的原型属性最后都指向空（null），Object.prototype.__proto__ === null
 4. 既然类是原型及原型链的语法糖，那么就应该有类：封装、继承、多态的特性
@@ -28,7 +28,7 @@ var man = new Person()
 > new 关键字
 1. 实例化构造函数，创建一个空对象
 2. 改变this的指向，将构造函数的属性和方法赋值给实例
-3. 将原型属性指向构造函数的原型，并返回这个对象
+3. 将原型属性指向构造函数的原型，并返回这个实例
 
 > 创建对象的模式
 1. 工厂模式
