@@ -18,7 +18,7 @@ function Person(){
 }
 var man = new Person()
 ```
-1. 原型和原型属性的理解
+> 原型和原型属性的理解
 
 - 只要创建构造函数就会生成一个prototype属性指向原型对象，prototype属性会带有一个constructor属性指向该构造函数的指针。
 - 每个实例的原型属性__proto__指向原型对象的内部指针。
