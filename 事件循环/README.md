@@ -19,9 +19,9 @@ JS引擎常驻内存中，等待宿主将JS或函数传递给它；也就是等�
 
 > ### 宏任务、微任务
 
-1. 宏任务 marotsk（task）： 由浏览器发起
+1. 宏任务 marotask（task）： 由浏览器发起
 
-2. 微任务 microtsk（jobs）：由JS本身发起
+2. 微任务 microtask（jobs）：由JS本身发起
 
 ![对比](./对比.jpg)
 
