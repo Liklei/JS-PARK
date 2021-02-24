@@ -4,9 +4,11 @@
 
 ### JS
 
-### TS
+### [TS](./TS)
 
-### electron
+### [electron](./electron)
 
 ### 新技术点
-Vite、Deno
+
+1. [Vite](https://www.yuque.com/sumi/idnmgz/sg7vrm)
+2. [Deno](https://deno.land/)
