@@ -1,8 +1,8 @@
 # JS-PARK
 
-巩固基本知识点及基础概念
+* 巩固基本知识点及基础概念
 
-### JS
+### [JavaScript](./JavaScript)
 
 ### [TS](./TS)
 
