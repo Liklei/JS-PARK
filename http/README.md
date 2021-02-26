@@ -6,6 +6,9 @@
 > http缓存
 - [http缓存理解](https://cloud.tencent.com/developer/news/588770)
 
+> post get区别
+- [GET 和 POST 的区别](https://blog.fundebug.com/2019/02/22/compare-http-method-get-and-post/)
+
 > 从输入URL到页面加载发生了什么
 
 1. DNS解析（Domain Name System）
