@@ -1,5 +1,10 @@
 # http
 
+> 301、302
+301是永久重定向，302暂时重定向
+
+> http缓存
+- [http缓存理解](https://cloud.tencent.com/developer/news/588770)
 
 > 从输入URL到页面加载发生了什么
 
