@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-02-22 18:28:22
- * @LastEditTime: 2021-02-22 18:44:51
+ * @LastEditTime: 2021-02-26 21:20:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \JS-PARK\高阶函数\深拷贝.js
@@ -19,11 +19,11 @@ function deepClone(sourceObj, newObj = {}) {
         if(props === obj) {
             continue
         }
-        if(typeof sourceObj[key] === 'object') {
-            obj[key] = sourceObj[key].constructor.name === 'Array'? []: {}
-            arguments.callee(sourceObj[key], obj[key])  
+        if(typeofprops === 'object') {
+            obj[key] = props.constructor.name === 'Array'? []: {}
+            arguments.callee(props, obj[key])  
         }else{
-            obj[key] = sourceObj[key];
+            obj[key] = sprops;
         }
     } 
     return obj

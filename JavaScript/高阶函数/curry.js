@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-02-22 18:10:37
- * @LastEditTime: 2021-02-22 21:04:44
+ * @LastEditTime: 2021-02-26 22:26:03
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \JS-PARK\高阶函数\curry.js
