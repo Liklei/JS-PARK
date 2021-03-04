@@ -1,3 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-02-24 19:37:57
+ * @LastEditTime: 2021-03-04 22:25:19
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \知识点梳理\JS-PARK\JavaScript\高阶函数\README.md
+-->
+
+### JS 纯函数
+每个输入值返回且只返回一个输出值，优点：可缓存性，可移植性，可并行
 
 ### JS 高阶函数
 Higher-Order-Function(HOF)
