@@ -7,4 +7,7 @@
  * @FilePath: \知识点梳理\JS-PARK\JavaScript\算法\README.md
 -->
 
-> [JS 十大排序方式](https://www.cnblogs.com/AlbertP/p/10847627.html)
+*** Promise
+
+> [深入理解Promise](https://juejin.cn/post/6844903673726763016)
+> [Promise源码](https://www.jianshu.com/p/43de678e918a)

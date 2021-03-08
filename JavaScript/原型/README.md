@@ -45,3 +45,9 @@ var man = new Person()
 5. 寄生组合式继承
 6. 寄生式继承
 > (对比es6中的继承使用super关键字来实现)
+
+
+
+### JS 设计模式
+- [常见设计模式一](https://www.cnblogs.com/imwtr/p/9451129.html)
+- [常见设计模式二](https://juejin.cn/post/6844903751870840839)
