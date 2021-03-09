@@ -11,4 +11,6 @@
 
 > [手写promise](https://juejin.cn/post/6901513900466896904)
 
+> [图解 Promise 实现原理](https://zhuanlan.zhihu.com/p/58428287)
+
 
