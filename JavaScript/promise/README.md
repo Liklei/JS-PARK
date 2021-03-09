@@ -1,5 +1,6 @@
 
 
+
 ### Promise
 
 > promise 含义
@@ -9,4 +10,7 @@
 > [深入Promise](https://juejin.cn/post/6844903673726763016)
 
 > [手写promise](https://juejin.cn/post/6901513900466896904)
+
+> [图解 Promise 实现原理](https://zhuanlan.zhihu.com/p/58428287)
+
 

@@ -32,3 +32,4 @@ JS引擎常驻内存中，等待宿主将JS或函数传递给它；也就是等�
 
 - [NodeJs事件循环](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#process-nexttick)
 - [深入理解事件循环](https://juejin.cn/post/6844903999506923528)
+

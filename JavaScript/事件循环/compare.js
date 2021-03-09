@@ -5,3 +5,5 @@ let a = setInterval(() => {
     console.log(1)
     clearInterval(a)
 }, 0);
+
+
