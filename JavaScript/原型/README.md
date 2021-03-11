@@ -49,5 +49,6 @@ var man = new Person()
 
 
 ### JS 设计模式
+
 - [常见设计模式一](https://www.cnblogs.com/imwtr/p/9451129.html)
 - [常见设计模式二](https://juejin.cn/post/6844903751870840839)
