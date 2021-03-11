@@ -1,3 +1,12 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-03-09 20:52:29
+ * @LastEditTime: 2021-03-10 21:11:04
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+
+ * @FilePath: \knowTech\JS-PARK\JavaScript\事件循环\README.md
+-->
 
 # 事件循环
 
@@ -27,6 +36,9 @@ JS引擎常驻内存中，等待宿主将JS或函数传递给它；也就是等�
 ![对比](./对比.jpg)
 
 > ### 参考链接
+
+- [浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
+
 - [事件循环概念](https://juejin.cn/post/6844903657264136200)
 - [事件循环实践链接](https://cloud.tencent.com/developer/article/1701427)
 
