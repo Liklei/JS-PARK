@@ -12,7 +12,8 @@
 ### 新技术点
 
 1. [Vite](https://www.yuque.com/sumi/idnmgz/sg7vrm)
-2. [Deno](https://deno.land/)
+2. [storybook](https://storybook.js.org/docs/react/get-started/introduction)
+3. [Deno](https://deno.land/)
 
 
 ### 技术博客

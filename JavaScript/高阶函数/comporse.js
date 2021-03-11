@@ -13,7 +13,8 @@ function add1(str) {
     return str + "cancel"
 }
 
-const comprose  = (...args)=> (str) => args.reduce((current, fn)=>fn(current), str)
+const comprose = (...args) => (str) =>
+  args.reduce((current, fn) => fn(current(str)));
 
 const comprose2 = function(...args) {
     return function(str) {
