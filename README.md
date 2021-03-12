@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-11 20:02:28
- * @LastEditTime: 2021-03-13 00:52:46
+ * @LastEditTime: 2021-03-13 01:11:56
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \knowTech\JS-PARK\README.md
@@ -17,6 +17,8 @@
 
 ### [electron](./electron)
 
+### [meteor构建和发布app](https://github.com/meteor/meteor)
+
 
 ### 新技术中文文档
 1. [印记中文](https://docschina.org/)
@@ -31,3 +33,4 @@
 ### 技术博客
 
 - [阮一峰周刊](https://www.ruanyifeng.com/blog/)
+- [30 seconds of code](https://www.30secondsofcode.org/)
