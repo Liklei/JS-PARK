@@ -58,6 +58,7 @@
 #### 资料文献
 1. [Rolloup](https://github.com/rollup/rollup)
 2. [TypeScript中文](https://juejin.cn/pins/recommended)
+3. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/typings/generices.html#%E5%8A%A8%E6%9C%BA%E5%92%8C%E7%A4%BA%E4%BE%8B)
 
 
 
