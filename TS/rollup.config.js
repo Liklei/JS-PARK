@@ -1,7 +1,7 @@
 /*
- * @Author: your name
+ * @Author: lance
  * @Date: 2020-07-29 21:43:51
- * @LastEditTime: 2020-08-01 19:32:29
+ * @LastEditTime: 2021-03-15 21:49:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \designModel\rollup.config.js
