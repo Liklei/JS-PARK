@@ -13,6 +13,9 @@
 - [type VS interface](https://blog.csdn.net/weixin_39866874/article/details/110492597)
 - [type VS interface](https://juejin.cn/post/6897089356457541640#heading-2)
 
+#### rollup构建TS环境
+
+* [参考 rollup.config.js](./rollup.config.js)
 
 #### vscode 配置
 1. 安装插件prettier
