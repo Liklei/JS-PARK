@@ -1,6 +1,4 @@
 
-
-
 ### Promise
 
 > promise 含义

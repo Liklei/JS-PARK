@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-24 19:37:57
- * @LastEditTime: 2021-03-05 17:15:45
+ * @LastEditTime: 2021-03-17 19:06:43
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \知识点梳理\JS-PARK\JavaScript\高阶函数\README.md
@@ -22,7 +22,7 @@ HOF函数在平时应用还是比较广的，下面整理常用函数：
 
 深拷贝与浅拷贝的区别在于：浅拷贝只是对值的引用并没有改变栈的地址（开辟新的栈），导致在修改新的对象属性时，原生对象属性也会被修改。
 
-实现浅拷贝常用的方法： = Object.assgin()。这里需要注意的是，Object.assgin在合并对象时，如果不是嵌套的对象，是深拷贝。
+实现浅拷贝常用的方法： Object.assgin()。这里需要注意的是，Object.assgin在合并对象时，如果不是嵌套的对象，是深拷贝。
 
 实现深拷贝常用方法：
 - JSON.parse(JSON,stringify(*)) 注意如果是JSON数据结构的如Array、Object等没关系，但如果是Function等会丢失constructor构造函数

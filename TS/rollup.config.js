@@ -1,11 +1,3 @@
-/*
- * @Author: lance
- * @Date: 2020-07-29 21:43:51
- * @LastEditTime: 2021-03-15 21:49:19
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \designModel\rollup.config.js
- */ 
 import typescript from 'rollup-plugin-typescript2'
 import resolve from 'rollup-plugin-node-resolve'
 import replace from "rollup-plugin-replace"
