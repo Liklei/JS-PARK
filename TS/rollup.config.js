@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-03-15 20:13:45
+ * @LastEditTime: 2021-04-06 19:02:27
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \knowTech\JS-PARK\TS\rollup.config.js
+ */
 import typescript from 'rollup-plugin-typescript2'
 import resolve from 'rollup-plugin-node-resolve'
 import replace from "rollup-plugin-replace"

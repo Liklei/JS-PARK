@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-03-15 20:13:45
- * @LastEditTime: 2021-03-15 21:42:54
+ * @LastEditTime: 2021-04-06 19:04:16
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \knowTech\JS-PARK\TS\src\ts\type.ts
@@ -77,7 +77,6 @@ type ffvoid = (name: string, age: string) => void
 type NNumber = Number;
 let a: NNumber = 1274824
 console.log(typeof a)
-
 
 class Point {
   x: number;
