@@ -41,6 +41,7 @@ JS引擎常驻内存中，等待宿主将JS或函数传递给它；也就是等�
 
 - [事件循环概念](https://juejin.cn/post/6844903657264136200)
 - [事件循环实践链接](https://cloud.tencent.com/developer/article/1701427)
+- [JavaScript 事件循环：从起源到浏览器再到 Node.js](https://mp.weixin.qq.com/s/E0vu7kJLcgDdJRVrAeyEIA)
 
 - [NodeJs事件循环](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#process-nexttick)
 - [深入理解事件循环](https://juejin.cn/post/6844903999506923528)
