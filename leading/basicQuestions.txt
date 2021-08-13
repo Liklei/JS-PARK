@@ -1,0 +1,40 @@
+1、基本数据类型、引用类型
+   exp：["10", "10", "10"].map(parseInt)
+   result: [10, null, 2]
+
+2、原型、原型链认识
+   判断数据类型的方法？ typeof、instanceOf、Object.prototype.toString.call()
+   设计模式的了解
+
+3、数组方法，改变原数组的方法，reduce理解手写；实现栈操作需要哪些方法？
+
+4、string的方法；字符串空格去除、模板语法好处？
+   exp：(10).toString(2)
+   result: "1010"
+
+5、JS与nodeJS 事件循环
+   promise的api，promise怎样实现链式调用？
+
+6、纯函数、高阶函数了解
+
+7、字符串去重、统计次数
+
+8、获取页面所有元素、去重、统计出现次数、获取前三的元素
+[...document.querySelectorAll("*")].map(item=>item.tagName)
+[...new Set(...[...document.querySelectorAll("*")].map(item=>item.tagName))]
+[...document.querySelectorAll("*")].map(item=>item.tagName).reduce((result, current)=>{
+result[current] ? result[current]++ : result[current] = 1
+}, {})
+[...document.querySelectorAll("*")].map(item=>item.tagName).reduce((result, current)=>{
+result[current] ? result[current]++ : result[current] = 1
+}, {}).sort((a, b)=>b[1]-a[1]).slice(0, 3)
+
+优化：
+Object.keys([...document.querySelectorAll("*")]).reduce((result, current)=>{
+result[current] ? result[current]++ : result[current] = 1
+}, {}).sort((a, b)=>b[1]-a[1]).slice(0, 3)
+
+9、vue源码相关： 响应式数据侦测、虚拟DOM（patch方法、子节点更新策略）、生命周期（new Vue()做了哪些事情）
+   vue-router：hash、history模式区别、路由导航守卫
+               路由懒加载的原理是什么？ （CommonJS模块 ES6模块的加载区别）
+10、
