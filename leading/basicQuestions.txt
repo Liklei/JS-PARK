@@ -37,4 +37,4 @@ result[current] ? result[current]++ : result[current] = 1
 9、vue源码相关： 响应式数据侦测、虚拟DOM（patch方法、子节点更新策略）、生命周期（new Vue()做了哪些事情）
    vue-router：hash、history模式区别、路由导航守卫
                路由懒加载的原理是什么？ （CommonJS模块 ES6模块的加载区别）
-10、
+10、http相关：https与http区别; http状态码（301与cname区别）; 从输入URL到页面加载发生了什么;http的优点
