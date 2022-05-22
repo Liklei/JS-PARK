@@ -1,17 +1,14 @@
-<!--
- * @Author: your name
- * @Date: 2021-03-11 20:02:28
- * @LastEditTime: 2021-03-13 01:11:56
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \knowTech\JS-PARK\README.md
--->
-
 # JS-PARK
 
-* Javascript笔记
+* 🎉🎉🎉 Javascript笔记系列，陆续更新中 》》》
 
 ### [JavaScript](./JavaScript)
-### [TS](./JavaScript/Typescript/)
+
+### [Typescript](./Typescript/)
+
+### [vue 2.x vNode](./vnode)
 
 ### [electron](./electron)
+
+
+### [各种工具使用](./Tool)
